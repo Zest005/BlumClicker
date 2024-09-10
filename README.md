@@ -17,6 +17,7 @@ BlumAutoClicker is an automated clicking tool designed for Windows. It allows us
 You can download the precompiled version of the program from the Releases section. No additional installation is required—simply download and run the Blum.exe file.
 
 ## Usage
+**0. Make sure to run Blumm in TG application first!**
 1. Run the program.
 2. Select the window you want to target by entering its corresponding number.
 3. Specify the accuracy factor for color detection (between 0.01 and 0.3).
