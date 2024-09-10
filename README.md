@@ -9,6 +9,8 @@ BlumAutoClicker is an automated clicking tool designed for Windows. It allows us
 5. Hotkeys:
   - F6 to start/pause the automation.
   - F8 to exit the program.
+  - F10 to decrease volume.
+  - F11 to increase volume.
 7. Error Logging: Provides detailed logging for errors, such as missing template files or invalid coordinates.
 
 ## Installation
@@ -26,7 +28,7 @@ You can download the precompiled version of the program from the Releases sectio
 - Automatically interacting with buttons in desktop applications.
 
 ## Troubleshooting
-If you encounter issues with missing template images, ensure the files are located in the correct directory. Templates must be saved in the template_png folder alongside the executable.
+If you encounter issues with missing template images or mp3, ensure the files are located in the correct directory. Templates must be saved in the template_png folder alongside the executable and tap.mp3 in the mp3 folder.
 
 ## License
 This project is licensed under the MIT License.
